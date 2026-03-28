@@ -49,12 +49,9 @@ Built an executive-level **Control Tower** that synchronizes Marketing bidding s
 
 | Metric | Result |
 |---|---|
-| **Predictive Accuracy** | XGBoost TTR model — *[insert MAE / R² here]* |
 | **Lead-Time Recovery** | Automated Pivot logic reduces average delay by **5 days** during Tier 1 port disruptions |
 | **ESG / Carbon Reduction** | AI-optimized routing cuts Scope 3 carbon tax liability by **20%** |
 | **Marketing Intelligence** | Auto-generates **Kill Bid / Aggressive Bid** signals for digital ad spend based on real-time inventory risk |
-
-> 💡 **Note:** Replace the predictive accuracy placeholder with your XGBoost MAE, RMSE, or R² score. A single quantified metric here is the highest-impact change you can make to this README before publishing.
 
 ---
 
@@ -112,8 +109,8 @@ psql -U <user> -d <database> -f SQL_Star_Schema_Views/schema.sql
 
 ---
 
-
 ## 🧰 Tech Stack
+
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -122,6 +119,4 @@ psql -U <user> -d <database> -f SQL_Star_Schema_Views/schema.sql
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-E83524?style=for-the-badge&logo=xgboost&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
-
 
