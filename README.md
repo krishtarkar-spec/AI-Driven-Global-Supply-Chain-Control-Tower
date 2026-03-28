@@ -112,7 +112,7 @@ psql -U <user> -d <database> -f SQL_Star_Schema_Views/schema.sql
 
 ---
 
-## 🧰 Tech Stack
+
 ## 🧰 Tech Stack
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
