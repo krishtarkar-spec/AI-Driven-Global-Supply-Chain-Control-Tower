@@ -49,9 +49,11 @@ Built an executive-level **Control Tower** that synchronizes Marketing bidding s
 
 | Metric | Result |
 |---|---|
-| **Lead-Time Recovery** | Automated Pivot logic reduces average delay by **5 days** during Tier 1 port disruptions |
-| **ESG / Carbon Reduction** | AI-optimized routing cuts Scope 3 carbon tax liability by **20%** |
-| **Marketing Intelligence** | Auto-generates **Kill Bid / Aggressive Bid** signals for digital ad spend based on real-time inventory risk |
+| Lead-Time Recovery | Automated Pivot logic reduces average delay by 5 days during Tier 1 port disruptions |
+| ESG / Carbon Reduction | AI-optimized routing cuts Scope 3 carbon tax liability by 20% |
+| Marketing Intelligence | Auto-generates Kill Bid / Aggressive Bid signals for digital ad spend based on real-time inventory risk |
+| Risk Detection | Prescriptive PIVOT logic flagged 5,770 high-risk shipments across the network |
+| Cost Savings | $32.4M in projected cost savings from AI-optimized rerouting decisions |
 
 ---
 
